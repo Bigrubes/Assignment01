@@ -7,7 +7,7 @@
 
 //STEP 2
 //let num = 100;//numeric literal expression
-//let name = "Max";//string literal expression
+//let name = "Reuben";//string literal expression
 //let isValid = true;//boolean literal expression
 //let num1 = null;//null literal expression
 
@@ -47,11 +47,11 @@
 // const info1 = "My Last name is " + lastName + ". " + "Answer: True" + ".";
 // console.log(info1)
 
-// const info2 = "My zip code is " + yourZipCode + ". " + "Answer: True" + ".";
+// const info2 = "My zip code is " + yourZipCode + -1045 + ". " + "Answer: True" + ".";
 // console.log(info2)
 
 //STEP 8
-//The following string literal is not valid.  I added a \' in between the I and M 
+//The following string literal is not valid.  I added a \' in between the I and M so that the apostrphe in the word I'm would not cause an error.
 // let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."'
 // console.log(someString)
 
@@ -99,27 +99,28 @@
 // const sum = x + y
 // console.log(sum)
 
-//STEP 18
+// STEP 18
 // const x = 20;
 // const sum  = x + 20
 // console.log(sum)
 
-//STEP 19
+// STEP 19
 // const x = 20;
 // const sum = x * 5
 // console.log(sum)
 
-//STEP 20
+// STEP 20
 // const x = 20%3
 // const sum = x/1
 // console.log(sum)
 
 //STEP 21
-// const age = 39 
-// const ageRange = age > 10;
+// const myAge = 39 
+// const ageRange = 30 < myAge < 40;
 // console.log(ageRange)
 
 //STEP 22
-// const age = 39 
-// const ageRange = age < 10;
-// console.log(ageRange)
+// const x = 5
+// const y = 10
+// const num = x === y;
+// console.log(num)
