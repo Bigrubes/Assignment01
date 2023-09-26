@@ -6,13 +6,17 @@
 // let myLibraryFunction;
 
 //STEP 2
-//100;//numeric literal expression
-//"Max";//string literal expression
-//true;//boolean literal expression
-//null;//null literal expression
+//let num = 100;//numeric literal expression
+//let name = "Max";//string literal expression
+//let isValid = true;//boolean literal expression
+//let num1 = null;//null literal expression
 
 //STEP 3?
-// const and let
+// const num = 4 * (5%3) - 2 + 10
+// console.log(num)
+
+// const name = "Reuben Ramos"
+
 
 //STEP 4
 // let firstName
@@ -59,6 +63,11 @@
 // console.log(num)
 
 //STEP 10
+// console.log(typeof "Reuben")
+// console.log(typeof 23)
+// console.log(typeof false)
+// console.log(typeof {})
+// console.log(typeof x)
 
 //STEP 11
 // const myName  = 'Reuben Ramos';
