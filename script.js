@@ -11,7 +11,8 @@
 //true;//boolean literal expression
 //null;//null literal expression
 
-//STEP 3
+//STEP 3?
+// const and let
 
 //STEP 4
 // let firstName
@@ -76,3 +77,40 @@
 // const name = "Reuben Ramos";
 // const course = "Javascript"
 // alert("Hello " + name + "," + "\nWelcome to the " + course + " class!");
+
+//STEP 15
+// prompt("Hello please enter your name");
+
+//STEP 16
+// prompt("What class are you taking?")
+
+//STEP 17
+// const x = 10
+// const y = 20
+// const sum = x + y
+// console.log(sum)
+
+//STEP 18
+// const x = 20;
+// const sum  = x + 20
+// console.log(sum)
+
+//STEP 19
+// const x = 20;
+// const sum = x * 5
+// console.log(sum)
+
+//STEP 20
+// const x = 20%3
+// const sum = x/1
+// console.log(sum)
+
+//STEP 21
+// const age = 39 
+// const ageRange = age > 10;
+// console.log(ageRange)
+
+//STEP 22
+// const age = 39 
+// const ageRange = age < 10;
+// console.log(ageRange)
